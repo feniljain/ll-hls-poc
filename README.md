@@ -1,3 +1,5 @@
+# NOTE: Sorry but this doesn't work anymore!
+
 # Running instructions:
 
 - Make a `segments/` dir in the root dir of the project
